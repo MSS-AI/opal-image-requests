@@ -1,1 +1,1 @@
-tip:fa310e8b
+registry.il2.dso.mil/skicamp/project-opal/opal-catalog-fe:067334fd
